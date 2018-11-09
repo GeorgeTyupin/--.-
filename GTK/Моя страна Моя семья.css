@@ -1,4 +1,4 @@
-﻿.bord{border: 1px solid black}
+.bord{border: 1px solid black}
 p{font-family: "Segoe Print"}
 h1{font-family: "Segoe Print"}
 .j{text-align: center}
@@ -6,6 +6,5 @@ h1{font-family: "Segoe Print"}
 a{font-family: "Segoe Print"}
 .c{color: gainsboro}
 .cl{background-color: #008500}
-body{background: url(C:\Users\inf1-1-8\Desktop\Тюпин Георгий\--master (1)\--master\GTK\картинки\3_1.png)
-height: 576px}
+body{background: url("542dcbdd10b19caa08f(2)\--master\GTK\картинки\3_1.png")}
 body{height: 576px}

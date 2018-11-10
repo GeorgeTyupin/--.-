@@ -6,4 +6,5 @@ h1{font-family: "Segoe Print"}
 a{font-family: "Segoe Print"}
 .c{color: gainsboro}
 .cl{background-color: #008500}
-/*body{background-image: url("https://st.depositphotos.com/1000419/5009/v/450/depositphotos_50098175-stock-illustration-tree-with-frames-transparent-background.jpg")}*/
+.n{width: 20rem}
+.t:focus {border: 3px solid #F1F1F1}

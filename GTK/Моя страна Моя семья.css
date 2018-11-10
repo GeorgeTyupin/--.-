@@ -6,5 +6,7 @@ h1{font-family: "Segoe Print"}
 a{font-family: "Segoe Print"}
 .c{color: gainsboro}
 .cl{background-color: #008500}
-body{background: url("542dcbdd10b19caa08f(2)\--master\GTK\картинки\3_1.png")}
-body{height: 576px}
+body{
+background-image: url("3.png");
+background-repeat: no-repeat;
+}

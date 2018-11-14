@@ -1,0 +1,2 @@
+function get(){var a= document.getElementById("button1").style.display; if(a=="none"){document.getElementById("button1").style.display="block"} else{document.getElementById("button1").style.display="none"}
+              } 

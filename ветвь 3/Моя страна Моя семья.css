@@ -1,0 +1,12 @@
+.bord{border: 1px solid black}
+p{font-family: "Segoe Print"}
+h1{font-family: "Segoe Print"}
+.j{text-align: center}
+.h{font-family: "Segoe Print"}
+a{font-family: "Segoe Print"}
+.c{color: gainsboro}
+.cl{background-color: #008500}
+body{
+background-image: url("3.png");
+background-repeat: no-repeat;
+}

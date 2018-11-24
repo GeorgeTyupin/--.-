@@ -1,0 +1,41 @@
+<html>
+<head>
+	<style>
+	.hide{display:none;}
+	.buttons button{display: inline-block;}
+	#change {padding-top: 1rem; font-family: arial;}
+
+</style>
+</head>
+<body>
+	<div class="buttons">
+<button onclick="change_one()">TEXT_1</button>
+<button onclick="change_two()">TEXT_2</button>
+<button onclick="change_three()">TEXT_3</button>
+<button onclick="change_four()">TEXT_4</button>
+</div>
+
+<div  id="change">
+	<p>Hide_text_1</p>
+</div>
+
+
+
+
+<script>
+	function change_one(){
+		document.getElementById("change").innerHTML = "New Text 1";
+	}
+		function change_two(){
+		document.getElementById("change").innerHTML = "New Text 2";
+	}
+		function change_three(){
+		document.getElementById("change").innerHTML = "New Text 3";
+	}
+		function change_four(){
+		document.getElementById("change").innerHTML = "New Text 4";
+	}
+		
+</script>
+</body>
+</html>

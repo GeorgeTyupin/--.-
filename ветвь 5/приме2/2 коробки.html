@@ -1,0 +1,27 @@
+ <html>
+<head>
+    <style>
+        .r {background-color: red}
+        .b {background-color: blue}
+        div {height: 6rem} 
+        .hide {display:none}
+    </style>
+</head>
+<body>
+    <div id="b1" onclick="cc1()" class="r">
+     <p>DGUOG</p></div>
+    <div id="b2" class="b">
+    <p>DGUOG</p>
+    </div>
+    <script>
+    function cc1()
+    {
+     
+    document.getElementById("b1").style.backgroundColor = "blue";
+       /*  document.getElementById("b2").style.backgroundColor = "red";*/
+        document.getElementById("b1").classList.add("hide");
+        document.getElementById("b2").classList.remove("b");
+    }
+    </script>
+</body>
+</html>

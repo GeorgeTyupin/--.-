@@ -15,6 +15,6 @@
 		document.getElementById("change").innerHTML = "Архивы, музеи, выставки";
 	}
 		function change_four(){
-		document.getElementById("img1").src="картинки/by3.jpg" ;    
-		document.getElementById("change").innerHTML = "Интернет, WWW сайты"
+		document.getElementById("img1").src="картинки/Безымянный.png " ;    
+		document.getElementById("change").innerHTML = "Интернет, WWW сайты";
 	}
